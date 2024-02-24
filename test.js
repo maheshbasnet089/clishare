@@ -1,0 +1,1 @@
+const clishare = require('cli')
