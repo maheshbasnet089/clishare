@@ -1,10 +1,10 @@
 {
-  "name": "clishare",
-  "version": "1.0.1",
+  "name": "clishare2",
+  "version": "1.0.2",
   "description": "clishare is used to sent files through terminal to gmail without logging into ones gmail",
-  "main": "index.js",
+  "main": "app.js",
   "bin": {
-    "clishare": "app.js"
+    "clishare2": "app.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
