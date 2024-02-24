@@ -1,0 +1,23 @@
+{
+  "name": "clishare",
+  "version": "1.0.0",
+  "description": "clishare is used to sent files through terminal to gmail without logging into ones gmail",
+  "main": "index.js",
+  "bin" : {
+    "clishare" : "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Basnet",
+  "license": "ISC",
+  "keywords": [
+    "sharefilefromterminal",
+    "nepaliterminalfilesharing",
+    "filesharingusingcommander"
+  ],
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nodemailer": "^6.9.10"
+  }
+}
